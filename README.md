@@ -1,5 +1,6 @@
 # Pokemon_Box_Push_EDISON
 A Box Pushing Game using DEI-SOC
+
 Author：Yuxi Zhang(edisonyuxi.zhang@mail.utoronto.ca), Olivia Zhang(oliviayubin.zhang@mail.utoronto.ca)
 # Project Introduction 
 This project aims at building a box pushing game that has four elements: Robot, Boxes, Highlighted 
