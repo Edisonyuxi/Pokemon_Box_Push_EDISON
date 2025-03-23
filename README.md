@@ -22,4 +22,5 @@ WASD keys to control the robot.
 Audio implementation: Record and implement suitable audios to indicate the Game statuses.
 6. Functionality Testing: Conduct multiple tests to improve the smoothness and playability of the 
 game, ensuring every function operates correctly.
+
 ![image](https://github.com/user-attachments/assets/5e1752d9-dd30-490f-b777-c6a9a99c094c)
