@@ -26,3 +26,7 @@ Audio implementation: Record and implement suitable audios to indicate the Game 
 game, ensuring every function operates correctly.
 
 ![image](https://github.com/user-attachments/assets/5e1752d9-dd30-490f-b777-c6a9a99c094c)
+# Game States
+1. The total state of the game is: Welcome, Start, End, Reset and different game level states.
+2. There are 10 game levels. Users will use the SW[0:9] on the FPGA(DEI_SOC) to control the game level.
+3. The robot are initialized in a sticked position from the VGA display axis (160.166). In real games on the FPGA, users will use the PS2 keyboard to control the robot. When simulating in the CPUlator, we will use the KEY[0:3] as the WASD to control the robot.
