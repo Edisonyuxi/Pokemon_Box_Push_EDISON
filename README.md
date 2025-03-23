@@ -1,5 +1,6 @@
 # Pokemon_Box_Push_EDISON
 A Box Pushing Game using DEI-SOC
+Author：Yuxi Zhang(edisonyuxi.zhang@mail.utoronto.ca), Olivia Zhang(oliviayubin.zhang@mail.utoronto.ca)
 # Project Introduction 
 This project aims at building a box pushing game that has four elements: Robot, Boxes, Highlighted 
 Areas and Walls. Users will use PS2 keyboard to control the Robot to push boxes to cover all 
@@ -7,7 +8,7 @@ highlighted areas. Game is over if the robot successfully moves all boxes onto t
 or the boxes get stuck and can’t move anymore. VGA Displays are used to display the game maps 
 and audios are implemented to indicate the game status. Users can also use Keys & Switches to 
 reset/return to the Welcome page/choose the difficulty level of the game. 
-# Author：Yuxi Zhang, Olivia Zhang
+
 # Implementation Process:
 1. Game Logic Development: Design box pushing logic, including robot control, movement 
 assessment, drawing logic, and end-game conditions.
