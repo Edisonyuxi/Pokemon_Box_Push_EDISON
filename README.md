@@ -50,5 +50,8 @@ game, ensuring every function operates correctly.
 ![e747d456c08ef7c2858eb8aec141ace](https://github.com/user-attachments/assets/569b224f-9689-488f-ad94-d2f8c1754548)
 ![e747d456c08ef7c2858eb8aec141ace](https://github.com/user-attachments/assets/12e6f3c2-3bec-4c54-8084-1c4cf9955f91)
 
+# Animation making
+# UI interface
+
 
 
