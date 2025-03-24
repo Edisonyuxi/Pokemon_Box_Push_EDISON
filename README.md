@@ -26,9 +26,17 @@ Audio implementation: Record and implement suitable audios to indicate the Game 
 game, ensuring every function operates correctly.
 
 ![image](https://github.com/user-attachments/assets/5e1752d9-dd30-490f-b777-c6a9a99c094c)
+# Game Logics
+1. There are four types of block: Robot, Walls, Boxes and the highlighted areas.
+2. Robot is controlled by the player with WASD. Users can use the robot to push box. robot can only push one box at one time.
+3. Walls are used to determine the region of the box-pushing area. Robot can't go onto the wall blocks, and Boxes also can't be pushed onto the Wall blocks.
+4. If the robot is carrying a box, the other boxes will be seen the same as the walls.
+5. The robot can only push the box, but can't drag the box backward. So be careful when push the box towards the walls!
+6. If all highlighted areas are covered by the box, then the player win the game.
+
 # Game States
 1. The total state of the game is: Welcome, End, Reset and different game level states.
-2. There are 10 game levels. Users will use the SW[0:9] on the FPGA(DEI_SOC) to control the game level. The diffculty level is accumalted from SW[0] to SW[9]
+2. There are 10 game levels. Users will use the SW[0:9] on the FPGA(DEI_SOC) to control the game level. The diffculty level is accumalted from SW[0] to SW[9].
 3. The robot are initialized in a sticked position from the VGA display axis (160, 166). In real games on the FPGA, users will use the PS2 keyboard to control the robot. When simulating in the CPUlator, we will use the KEY[0:3] as the WASD to control the robot.
 4. When in the game, the player may fail(they can't move every box to the hightlighted area), they can press the reset button(SW[1] in CPUlator, KEY[0]) to reset the game status so they can have another chance.
 5. When the player successfully push every box to the highlighted area, then the player win this game, there will be a switch to the end page.
