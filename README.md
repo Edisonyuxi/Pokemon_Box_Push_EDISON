@@ -54,6 +54,8 @@ game, ensuring every function operates correctly.
 
 # Animation making
 # UI interface
+# Audio display
+# Functional testing
 # Conclusion
 Our project is a complete and successful design. We designed a smooth and playable box pushing game by implementing PS/2 Keyboard controls, audio playback, key and switch inputs, VGA Display, and PNG loading. The diverse of game states and the detail of the game logic add to the 
 game's complexity, while the excellent animation and beautiful images contribute to a pleasant user interface. Through this project, we have deepened our understanding of this course's content and acquired new knowledge: how to convert PNG files to C arrays, how to convert audio files to C 
