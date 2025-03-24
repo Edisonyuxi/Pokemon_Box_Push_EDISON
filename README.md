@@ -3,7 +3,7 @@ A Box Pushing Game using DEI-SOC
 
 Author：Yuxi Zhang(edisonyuxi.zhang@mail.utoronto.ca), Olivia Zhang(oliviayubin.zhang@mail.utoronto.ca)
 
-(DO not copy the files to your academic work!)
+(Do not copy the files for your academic work!)
 # Project Introduction 
 This project aims at building a box pushing game that has four elements: Robot, Boxes, Highlighted 
 Areas and Walls. Users will use PS2 keyboard to control the Robot to push boxes to cover all 
