@@ -43,6 +43,7 @@ game, ensuring every function operates correctly.
 4. When in the game, the player may fail(they can't move every box to the hightlighted area), they can press the reset button(SW[1] in CPUlator, KEY[0]) to reset the game status so they can have another chance.
 5. When the player successfully push every box to the highlighted area, then the player win this game, there will be a switch to the end page.
 6. When the player in the End page, KEY[0] can be used to return to the welcome page to have another game.
+
 ![welcome_end_page](https://github.com/user-attachments/assets/919c05ed-0496-4f5d-8801-98d5c19af2ca)
 ![diffeerent_game_level](https://github.com/user-attachments/assets/62446771-0a60-42ee-8fae-ea2e2da7404f)
 
