@@ -50,7 +50,9 @@ game, ensuring every function operates correctly.
 # Animation making
 ![Reset_ani](https://github.com/user-attachments/assets/3db1e85c-a1ab-4300-8f21-ebe12ed2a64e)
 ![ani2](https://github.com/user-attachments/assets/876278dd-97e0-4759-bc7d-37998475d70f)
+
 The animations in our game are smooth and engaging. For example, when the user presses the reset button, a blue smiling face appears on the screen along with a dynamic loading bar that lasts about 4 seconds. This not only creates a visually appealing transition but also gives players a brief moment to rest and prepare for the next round.
+
 The smoothness of the animation is largely attributed to the use of double buffering on the VGA display. Our implementation on the FPGA (DE1-SoC) uses the wait_for_sync function to synchronize buffer swapping. The switch between the front and back buffers occurs only after the back buffer has completed rendering, which effectively eliminates screen tearing and ensures a seamless visual experience  
 # UI interface
 # Audio display
