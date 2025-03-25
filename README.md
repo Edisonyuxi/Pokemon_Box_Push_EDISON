@@ -43,10 +43,12 @@ game, ensuring every function operates correctly.
 4. When in the game, the player may fail(they can't move every box to the hightlighted area), they can press the reset button(SW[1] in CPUlator, KEY[0]) to reset the game status so they can have another chance.
 5. When the player successfully push every box to the highlighted area, then the player win this game, there will be a switch to the end page.
 6. When the player in the End page, KEY[0] can be used to return to the welcome page to have another game.
-
-![welcome_end_page](https://github.com/user-attachments/assets/919c05ed-0496-4f5d-8801-98d5c19af2ca)
-![diffeerent_game_level](https://github.com/user-attachments/assets/62446771-0a60-42ee-8fae-ea2e2da7404f)
-
+![welcome_page](https://github.com/user-attachments/assets/573af2ad-a119-46cc-87a1-1a50d363e2aa)
+![image](https://github.com/user-attachments/assets/30995cb0-d5ce-4a5b-8f8f-654c187ad54e)
+![gamestate2](https://github.com/user-attachments/assets/e5680986-1472-41e1-ab74-4e01d0f2debe)
+![gamestate3](https://github.com/user-attachments/assets/812a1f7a-d874-4bfe-ba5f-20eeaea75e92)
+![gamestate4](https://github.com/user-attachments/assets/83f64aeb-7752-4423-adcf-c45ecabf773d)
+![Endpage](https://github.com/user-attachments/assets/470572fd-eb4f-4735-8dd6-a19c49e819d3)
 # Animation making
 ![Reset_ani](https://github.com/user-attachments/assets/3db1e85c-a1ab-4300-8f21-ebe12ed2a64e)
 ![ani2](https://github.com/user-attachments/assets/876278dd-97e0-4759-bc7d-37998475d70f)
