@@ -54,7 +54,7 @@ game, ensuring every function operates correctly.
 
 # Animation making
 ![Reset_ani](https://github.com/user-attachments/assets/3db1e85c-a1ab-4300-8f21-ebe12ed2a64e)
-
+![ani2](https://github.com/user-attachments/assets/876278dd-97e0-4759-bc7d-37998475d70f)
 # UI interface
 # Audio display
 # Functional testing
